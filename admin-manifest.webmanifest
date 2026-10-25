@@ -1,0 +1,29 @@
+{
+  "name": "ZM - Handwerk & Montage | Admin",
+  "short_name": "ZM Admin",
+  "description": "Persönliche Admin-App: Termine, Bewertungen, Inhalte und Assistent – Daten bleiben lokal im Gerät.",
+  "lang": "de",
+  "start_url": "/admin",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#18191d",
+  "theme_color": "#18191d",
+  "icons": [
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
