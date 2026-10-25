@@ -1,9 +1,11 @@
 // ZM – lokaler Service Worker: Offline-Unterstützung für die installierbare
 // Admin-App (PWA) und die Website. Kein Server, keine Netzwerk-Logik:
 // statische Dateien werden gecacht, Daten liegen weiter im localStorage.
-const CACHE = "zmhw-github-pages-v3";
+const CACHE = "zmhw-static-v2";
 const PRECACHE = [
   "/",
+  "/admin",
+  "/logo.jpg",
   "/logo.png",
   "/logo-192.png",
   "/logo-maskable.png",

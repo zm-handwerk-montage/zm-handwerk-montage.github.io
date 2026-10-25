@@ -1,5 +1,5 @@
 {
-  "name": "ZM - Handwerk & Montage | Admin",
+  "name": "ZM Admin – Handwerk & Montage",
   "short_name": "ZM Admin",
   "description": "Persönliche Admin-App: Termine, Bewertungen, Inhalte und Assistent – Daten bleiben lokal im Gerät.",
   "lang": "de",
@@ -15,7 +15,7 @@
       "type": "image/png"
     },
     {
-      "src": "/logo.png",
+      "src": "/logo-maskable.png",
       "sizes": "512x512",
       "type": "image/png"
     },

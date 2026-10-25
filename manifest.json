@@ -1,5 +1,5 @@
 {
-  "name": "ZM - Handwerk & Montage",
+  "name": "ZM – Handwerk & Montage",
   "short_name": "ZM",
   "description": "Montage, Hausmeister, Elektro & Geräteservice, Küchenmontage in Berlin-Reinickendorf",
   "start_url": "/",
@@ -13,7 +13,7 @@
       "type": "image/png"
     },
     {
-      "src": "/logo.png",
+      "src": "/logo-maskable.png",
       "sizes": "512x512",
       "type": "image/png"
     },
