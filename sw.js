@@ -1,10 +1,9 @@
 // ZM – lokaler Service Worker: Offline-Unterstützung für die installierbare
 // Admin-App (PWA) und die Website. Kein Server, keine Netzwerk-Logik:
 // statische Dateien werden gecacht, Daten liegen weiter im localStorage.
-const CACHE = "zmhw-static-v2";
+const CACHE = "zmhw-static-v3";
 const PRECACHE = [
   "/",
-  "/admin",
   "/logo.jpg",
   "/logo.png",
   "/logo-192.png",
@@ -60,7 +59,7 @@ self.addEventListener("fetch", (event) => {
       .catch(() =>
         caches
           .match(req)
-          .then((hit) => hit || caches.match(url.pathname.startsWith("/admin") ? "/admin" : "/"))
+          .then((hit) => hit || caches.match("/"))
       )
   );
 });
