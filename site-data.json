@@ -1,0 +1,123 @@
+{
+  "version": 1793197316864,
+  "exported_at": "2026-10-28T14:21:56.864Z",
+  "label": "Design-Farbe: Grün",
+  "content": {
+    "hero_badge": "ZM - Handwerk & Montage",
+    "hero_title": "Handwerk mit",
+    "hero_highlight": "Präzision",
+    "hero_title_suffix": "& fairem Preis.",
+    "hero_subtitle": "Montage, Hausmeister-Service, Elektro & Geräteservice, Küchenmontage, Maler & Spachtelarbeiten, Zäune.\nFaire Tarife: Montage 70 €/h · Hausmeister 60 €/h · Elektro 85 €/h · Anfahrt kostenlos.",
+    "hero_image": "/logo.png",
+    "footer_tagline": "Handwerk, auf das Sie sich\nverlassen können.",
+    "footer_intro": "Montage · Hausmeister · Elektro & Geräteservice · Küchenmontage · Maler & Spachtel · Zäune.\nTransparente Tarife, Anfahrt kostenlos innerhalb Berlins. Jetzt Termin anfragen.",
+    "phone": "0176 49662096",
+    "email": "zakariamaat67@gmail.com",
+    "location": "Berlin-Reinickendorf, Märkische Zeile",
+    "website": "zm-handwerk-montage.de"
+  },
+  "services": [
+    {
+      "name": "Montage & Möbelaufbau",
+      "desc": "Möbel, Regale, Schränke, TV-Halter, Deko und Installationsarbeiten aller Art – sauber und schnell.",
+      "icon": "hammer",
+      "price_from": "70 €/h",
+      "price_note": "je Monteur, Mindestbuchung 1 h",
+      "hourly": 70,
+      "order": 1,
+      "id": "seed-service-1",
+      "created_date": "2026-10-25T21:19:45.200Z",
+      "updated_date": "2026-10-25T21:19:45.200Z"
+    },
+    {
+      "name": "Hausmeister-Service",
+      "desc": "Kleinere Reparaturen, Instandhaltung und zuverlässige Betreuung von Haus & Wohnung.",
+      "icon": "home",
+      "price_from": "60 €/h",
+      "price_note": "nach Aufwand",
+      "hourly": 60,
+      "order": 2,
+      "id": "seed-service-2",
+      "created_date": "2026-10-25T21:19:45.200Z",
+      "updated_date": "2026-10-25T21:19:45.200Z"
+    },
+    {
+      "name": "Elektro & Geräteservice",
+      "desc": "Lampen, Steckdosen, Wasch-/Spülmaschine, Elektroherd-Anschluss (100 €) – Elektrofachkraft.",
+      "icon": "zap",
+      "price_from": "85 €/h",
+      "price_note": "Geräteanschlüsse ab 80 €",
+      "hourly": 85,
+      "order": 3,
+      "id": "seed-service-3",
+      "created_date": "2026-10-25T21:19:45.200Z",
+      "updated_date": "2026-10-25T21:19:45.200Z"
+    },
+    {
+      "name": "Küchen- & Arbeitsplattenmontage",
+      "desc": "Alle Küchen 200 €/lfm, Anschlusspaket Wasser + Elektro 100 €, Platten ab 80 €/lfm.",
+      "icon": "kitchen",
+      "price_from": "200 €/lfm",
+      "price_note": "alle Küchen · Anfahrt kostenlos",
+      "hourly": 70,
+      "order": 4,
+      "id": "seed-service-4",
+      "created_date": "2026-10-25T21:19:45.200Z",
+      "updated_date": "2026-10-25T21:19:45.200Z"
+    },
+    {
+      "name": "Maler- & Spachtelarbeiten",
+      "desc": "Wände & Decken streichen und spachteln, Raufasertapeten anbringen oder überarbeiten – deckend und sauber.",
+      "icon": "paint",
+      "price_from": "60 €/h",
+      "price_note": "inkl. Raufaser-Montage, Material extra",
+      "hourly": 60,
+      "order": 5,
+      "id": "seed-service-5",
+      "created_date": "2026-10-25T21:19:45.200Z",
+      "updated_date": "2026-10-25T21:19:45.200Z"
+    },
+    {
+      "name": "Zäune & Bodenrückbau",
+      "desc": "Zaun demontieren inkl. Entsorgung 40 €/lfm, Zaunaufbau 70 €/h, Bodenbelag entfernen ab 8 €/m².",
+      "icon": "door",
+      "price_from": "ab 40 €/lfm",
+      "price_note": "Montage 70 €/h",
+      "hourly": 70,
+      "order": 6,
+      "id": "seed-service-6",
+      "created_date": "2026-10-25T21:19:45.200Z",
+      "updated_date": "2026-10-25T21:19:45.200Z"
+    },
+    {
+      "name": "Alarm- & Sicherheitstechnik",
+      "desc": "Alarm- und Sicherheitsanlagen montieren, einrichten und reparieren – Fachtechniker-Tarif.",
+      "icon": "lightbulb",
+      "price_from": "105 €/h",
+      "price_note": "Material & Komponenten extra",
+      "hourly": 105,
+      "order": 7,
+      "id": "seed-service-7",
+      "created_date": "2026-10-25T21:19:45.200Z",
+      "updated_date": "2026-10-25T21:19:45.200Z"
+    }
+  ],
+  "reviews": [],
+  "priceOverrides": {},
+  "theme": {
+    "background": "150 38% 93%",
+    "foreground": "150 50% 9%",
+    "card": "150 40% 97%",
+    "card-foreground": "150 50% 9%",
+    "popover": "150 40% 97%",
+    "popover-foreground": "150 50% 9%",
+    "muted": "150 26% 87%",
+    "muted-foreground": "150 20% 33%",
+    "secondary": "150 30% 76%",
+    "secondary-foreground": "150 50% 11%",
+    "accent": "150 34% 72%",
+    "accent-foreground": "150 50% 11%",
+    "input": "150 28% 78%",
+    "border": "150 24% 74%"
+  }
+}
